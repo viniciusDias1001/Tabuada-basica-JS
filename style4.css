@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(21, 163, 104, 0.63);
+    font: normal 15pt Courier, monospace;
+    }
+    header{
+        text-align: center;
+        color: white;
+        font: 40PT;
+        
+    }
+    section{
+        background-color: white;
+        border-radius: 15px;
+        line-height: 300px;
+        padding: 70px;
+        width: 400px;
+        margin: AUTO;
+        text-align: left;
+        box-shadow: 5px 5px 10px rgb(29, 28, 28);
+        font: normal 15pt Arial;
+       }
+    footer{
+    
+
+        font: normal 15pt American Typewriter, serif;
+        color: white;
+        text-align: center;
+       
+    }    
+    p{
+        width: 400px;
+        line-height: 1px;
+    }
+
+   
+  
